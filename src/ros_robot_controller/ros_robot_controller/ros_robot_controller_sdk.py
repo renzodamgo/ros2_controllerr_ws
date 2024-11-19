@@ -586,10 +586,17 @@ if __name__ == "__main__":
     board = Board()
     board.enable_reception()
     print("START...")
-    #time.sleep(2)
+    # board.bus_servo_set_position(.5, [[4, 1000]])
+
     board.set_led(0.1, 0.9, 1,1)
     #board.set_led(0.1, 0.9, 5,2)
-    board.set_buzzer(1900, 0.05, 0.01, 1)
+    # board.set_buzzer(400, 0.5, 0.01, 1)
+    servo_id = 2
+    board.pwm_servo_set_position(0.5, [[servo_id, 2000]])
+    board.pwm_servo_set_offset(servo_id, 1500)
+    board.pwm_servo_set_position(0.5, [[servo_id, 1500]])
+    print('offset:', board.pwm_servo_read_offset(servo_id))
+    print('position:', board.pwm_servo_read_position(servo_id))
     #time.sleep(1)
     #board.set_buzzer(1900, 0.05, 0.01, 1)
     #time.sleep(1)
@@ -600,7 +607,7 @@ if __name__ == "__main__":
     #board.set_rgb([[2, 255, 0, 0],[1,255,0,0]])
     #time.sleep(0.5)
     #board.set_rgb([[1, 0, 255, 0]])
-    #board.set_motor_speed([[1, -0.6], [2, -0.6], [3, 0.6], [4, 0.6]])
+    # board.set_motor_speed([[1, -0.0], [2, -0.0], [3, 0.0], [4, 0.0]])
     #time.sleep(1)
     #board.set_motor_speed([[1, 0], [2, 0], [3, 0], [4, 0]])
     
