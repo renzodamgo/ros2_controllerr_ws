@@ -340,3 +340,190 @@
 [22.738629] (-) TimerEvent: {}
 [22.839140] (-) TimerEvent: {}
 [22.862588] (ros_robot_controller_msgs) StdoutLine: {'line': b'[ 29%] \x1b[32m\x1b[1mLinking C shared library libros_robot_controller_msgs__rosidl_generator_c.so\x1b[0m\n'}
+[22.940029] (-) TimerEvent: {}
+[23.013831] (ros_robot_controller_msgs) StdoutLine: {'line': b'[ 29%] Built target ros_robot_controller_msgs__rosidl_generator_c\n'}
+[23.037767] (ros_robot_controller_msgs) StdoutLine: {'line': b'[ 29%] \x1b[34m\x1b[1mGenerating C++ type support dispatch for ROS interfaces\x1b[0m\n'}
+[23.040149] (-) TimerEvent: {}
+[23.140705] (-) TimerEvent: {}
+[23.241316] (-) TimerEvent: {}
+[23.341819] (-) TimerEvent: {}
+[23.442229] (-) TimerEvent: {}
+[23.544942] (-) TimerEvent: {}
+[23.645385] (-) TimerEvent: {}
+[23.746002] (-) TimerEvent: {}
+[23.846393] (-) TimerEvent: {}
+[23.946793] (-) TimerEvent: {}
+[24.047218] (-) TimerEvent: {}
+[24.148358] (-) TimerEvent: {}
+[24.249020] (-) TimerEvent: {}
+[24.351349] (-) TimerEvent: {}
+[24.451865] (-) TimerEvent: {}
+[24.553413] (-) TimerEvent: {}
+[24.656098] (-) TimerEvent: {}
+[24.699955] (ros_robot_controller_msgs) StdoutLine: {'line': b'[ 30%] \x1b[32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ros_robot_controller_msgs/msg/bus_servo_state__type_support.cpp.o\x1b[0m\n'}
+[24.757655] (-) TimerEvent: {}
+[24.858678] (-) TimerEvent: {}
+[24.960005] (-) TimerEvent: {}
+[25.062013] (-) TimerEvent: {}
+[25.162784] (-) TimerEvent: {}
+[25.263556] (-) TimerEvent: {}
+[25.365093] (-) TimerEvent: {}
+[25.467017] (-) TimerEvent: {}
+[25.568152] (-) TimerEvent: {}
+[25.669116] (-) TimerEvent: {}
+[25.770659] (-) TimerEvent: {}
+[25.841022] (ros_robot_controller_msgs) StdoutLine: {'line': b'[ 30%] \x1b[32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ros_robot_controller_msgs/msg/button_state__type_support.cpp.o\x1b[0m\n'}
+[25.871034] (-) TimerEvent: {}
+[25.972043] (-) TimerEvent: {}
+[26.073546] (-) TimerEvent: {}
+[26.176150] (-) TimerEvent: {}
+[26.276649] (-) TimerEvent: {}
+[26.377279] (-) TimerEvent: {}
+[26.478220] (-) TimerEvent: {}
+[26.578959] (-) TimerEvent: {}
+[26.679622] (-) TimerEvent: {}
+[26.780547] (-) TimerEvent: {}
+[26.859785] (ros_robot_controller_msgs) StdoutLine: {'line': b'[ 31%] \x1b[32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ros_robot_controller_msgs/msg/buzzer_state__type_support.cpp.o\x1b[0m\n'}
+[26.880926] (-) TimerEvent: {}
+[26.982684] (-) TimerEvent: {}
+[27.083153] (-) TimerEvent: {}
+[27.183628] (-) TimerEvent: {}
+[27.284132] (-) TimerEvent: {}
+[27.384680] (-) TimerEvent: {}
+[27.485444] (-) TimerEvent: {}
+[27.585920] (-) TimerEvent: {}
+[27.686909] (-) TimerEvent: {}
+[27.787792] (-) TimerEvent: {}
+[27.882529] (ros_robot_controller_msgs) StdoutLine: {'line': b'[ 31%] \x1b[32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ros_robot_controller_msgs/msg/led_state__type_support.cpp.o\x1b[0m\n'}
+[27.887968] (-) TimerEvent: {}
+[27.988956] (-) TimerEvent: {}
+[28.089416] (-) TimerEvent: {}
+[28.190031] (-) TimerEvent: {}
+[28.291136] (-) TimerEvent: {}
+[28.392076] (-) TimerEvent: {}
+[28.493443] (-) TimerEvent: {}
+[28.594088] (-) TimerEvent: {}
+[28.694910] (-) TimerEvent: {}
+[28.795884] (-) TimerEvent: {}
+[28.853610] (ros_robot_controller_msgs) StdoutLine: {'line': b'[ 31%] \x1b[32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ros_robot_controller_msgs/msg/motor_state__type_support.cpp.o\x1b[0m\n'}
+[28.896027] (-) TimerEvent: {}
+[28.996780] (-) TimerEvent: {}
+[29.098612] (-) TimerEvent: {}
+[29.199309] (-) TimerEvent: {}
+[29.300046] (-) TimerEvent: {}
+[29.400696] (-) TimerEvent: {}
+[29.501741] (-) TimerEvent: {}
+[29.602429] (-) TimerEvent: {}
+[29.703119] (-) TimerEvent: {}
+[29.803726] (-) TimerEvent: {}
+[29.873555] (ros_robot_controller_msgs) StdoutLine: {'line': b'[ 32%] \x1b[32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ros_robot_controller_msgs/msg/motors_state__type_support.cpp.o\x1b[0m\n'}
+[29.903893] (-) TimerEvent: {}
+[30.005601] (-) TimerEvent: {}
+[30.106090] (-) TimerEvent: {}
+[30.206519] (-) TimerEvent: {}
+[30.307777] (-) TimerEvent: {}
+[30.408347] (-) TimerEvent: {}
+[30.509097] (-) TimerEvent: {}
+[30.610127] (-) TimerEvent: {}
+[30.710676] (-) TimerEvent: {}
+[30.801116] (ros_robot_controller_msgs) StdoutLine: {'line': b'[ 32%] \x1b[32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ros_robot_controller_msgs/msg/pwm_servo_state__type_support.cpp.o\x1b[0m\n'}
+[30.810890] (-) TimerEvent: {}
+[30.911623] (-) TimerEvent: {}
+[31.015664] (-) TimerEvent: {}
+[31.116858] (-) TimerEvent: {}
+[31.219080] (-) TimerEvent: {}
+[31.319916] (-) TimerEvent: {}
+[31.420623] (-) TimerEvent: {}
+[31.522957] (-) TimerEvent: {}
+[31.623468] (-) TimerEvent: {}
+[31.724200] (-) TimerEvent: {}
+[31.824901] (-) TimerEvent: {}
+[31.922587] (ros_robot_controller_msgs) StdoutLine: {'line': b'[ 33%] \x1b[32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ros_robot_controller_msgs/msg/sbus__type_support.cpp.o\x1b[0m\n'}
+[31.925066] (-) TimerEvent: {}
+[32.025674] (-) TimerEvent: {}
+[32.126156] (-) TimerEvent: {}
+[32.226592] (-) TimerEvent: {}
+[32.326999] (-) TimerEvent: {}
+[32.427482] (-) TimerEvent: {}
+[32.530061] (-) TimerEvent: {}
+[32.630907] (-) TimerEvent: {}
+[32.731616] (-) TimerEvent: {}
+[32.754708] (ros_robot_controller_msgs) StdoutLine: {'line': b'[ 33%] \x1b[32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ros_robot_controller_msgs/msg/oled_state__type_support.cpp.o\x1b[0m\n'}
+[32.831808] (-) TimerEvent: {}
+[32.933975] (-) TimerEvent: {}
+[33.036439] (-) TimerEvent: {}
+[33.137178] (-) TimerEvent: {}
+[33.237892] (-) TimerEvent: {}
+[33.338399] (-) TimerEvent: {}
+[33.438999] (-) TimerEvent: {}
+[33.540015] (-) TimerEvent: {}
+[33.641221] (-) TimerEvent: {}
+[33.742104] (-) TimerEvent: {}
+[33.794976] (ros_robot_controller_msgs) StdoutLine: {'line': b'[ 34%] \x1b[32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ros_robot_controller_msgs/msg/set_bus_servo_state__type_support.cpp.o\x1b[0m\n'}
+[33.842516] (-) TimerEvent: {}
+[33.944502] (-) TimerEvent: {}
+[34.045519] (-) TimerEvent: {}
+[34.147505] (-) TimerEvent: {}
+[34.248904] (-) TimerEvent: {}
+[34.349927] (-) TimerEvent: {}
+[34.450669] (-) TimerEvent: {}
+[34.551692] (-) TimerEvent: {}
+[34.652462] (-) TimerEvent: {}
+[34.753378] (-) TimerEvent: {}
+[34.801667] (ros_robot_controller_msgs) StdoutLine: {'line': b'[ 34%] \x1b[32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ros_robot_controller_msgs/msg/rgb_states__type_support.cpp.o\x1b[0m\n'}
+[34.853517] (-) TimerEvent: {}
+[34.953958] (-) TimerEvent: {}
+[35.054956] (-) TimerEvent: {}
+[35.157008] (-) TimerEvent: {}
+[35.257664] (-) TimerEvent: {}
+[35.358058] (-) TimerEvent: {}
+[35.459058] (-) TimerEvent: {}
+[35.559426] (-) TimerEvent: {}
+[35.627366] (ros_robot_controller_msgs) StdoutLine: {'line': b'[ 35%] \x1b[32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ros_robot_controller_msgs/msg/rgb_state__type_support.cpp.o\x1b[0m\n'}
+[35.659568] (-) TimerEvent: {}
+[35.760930] (-) TimerEvent: {}
+[35.861338] (-) TimerEvent: {}
+[35.961764] (-) TimerEvent: {}
+[36.062377] (-) TimerEvent: {}
+[36.163419] (-) TimerEvent: {}
+[36.264392] (-) TimerEvent: {}
+[36.366983] (-) TimerEvent: {}
+[36.467530] (-) TimerEvent: {}
+[36.568208] (-) TimerEvent: {}
+[36.594557] (ros_robot_controller_msgs) StdoutLine: {'line': b'[ 35%] \x1b[32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ros_robot_controller_msgs/msg/servo_position__type_support.cpp.o\x1b[0m\n'}
+[36.668408] (-) TimerEvent: {}
+[36.769075] (-) TimerEvent: {}
+[36.869766] (-) TimerEvent: {}
+[36.970642] (-) TimerEvent: {}
+[37.071518] (-) TimerEvent: {}
+[37.172211] (-) TimerEvent: {}
+[37.272976] (-) TimerEvent: {}
+[37.373798] (-) TimerEvent: {}
+[37.475008] (-) TimerEvent: {}
+[37.575676] (-) TimerEvent: {}
+[37.676595] (-) TimerEvent: {}
+[37.720517] (ros_robot_controller_msgs) StdoutLine: {'line': b'[ 36%] \x1b[32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ros_robot_controller_msgs/msg/servos_position__type_support.cpp.o\x1b[0m\n'}
+[37.777699] (-) TimerEvent: {}
+[37.880833] (-) TimerEvent: {}
+[37.982222] (-) TimerEvent: {}
+[38.083033] (-) TimerEvent: {}
+[38.184926] (-) TimerEvent: {}
+[38.285598] (-) TimerEvent: {}
+[38.386535] (-) TimerEvent: {}
+[38.487264] (-) TimerEvent: {}
+[38.587886] (-) TimerEvent: {}
+[38.688329] (-) TimerEvent: {}
+[38.788983] (-) TimerEvent: {}
+[38.833439] (ros_robot_controller_msgs) StdoutLine: {'line': b'[ 36%] \x1b[32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ros_robot_controller_msgs/msg/set_pwm_servo_state__type_support.cpp.o\x1b[0m\n'}
+[38.889162] (-) TimerEvent: {}
+[38.990048] (-) TimerEvent: {}
+[39.092154] (-) TimerEvent: {}
+[39.193431] (-) TimerEvent: {}
+[39.296220] (-) TimerEvent: {}
+[39.396977] (-) TimerEvent: {}
+[39.497903] (-) TimerEvent: {}
+[39.598660] (-) TimerEvent: {}
+[39.699957] (-) TimerEvent: {}
+[39.800974] (-) TimerEvent: {}
+[39.865465] (ros_robot_controller_msgs) StdoutLine: {'line': b'[ 37%] \x1b[32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ros_robot_controller_msgs/msg/get_bus_servo_cmd__type_support.cpp.o\x1b[0m\n'}
+[39.901134] (-) TimerEvent: {}
