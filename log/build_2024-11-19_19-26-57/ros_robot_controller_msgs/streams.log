@@ -128,3 +128,735 @@
 [39.860s] [ 37%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ros_robot_controller_msgs/msg/get_bus_servo_cmd__type_support.cpp.o[0m
 [40.671s] [ 37%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ros_robot_controller_msgs/msg/get_pwm_servo_cmd__type_support.cpp.o[0m
 [41.351s] [ 38%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ros_robot_controller_msgs/srv/get_bus_servo_state__type_support.cpp.o[0m
+[42.636s] [ 38%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ros_robot_controller_msgs/srv/get_pwm_servo_state__type_support.cpp.o[0m
+[43.986s] [ 38%] [32m[1mLinking CXX shared library libros_robot_controller_msgs__rosidl_typesupport_cpp.so[0m
+[44.249s] [ 38%] Built target ros_robot_controller_msgs__rosidl_typesupport_cpp
+[44.272s] [ 39%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[46.092s] [ 39%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ros_robot_controller_msgs/msg/detail/bus_servo_state__type_support.c.o[0m
+[46.222s] [ 39%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ros_robot_controller_msgs/msg/detail/button_state__type_support.c.o[0m
+[46.306s] [ 40%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ros_robot_controller_msgs/msg/detail/buzzer_state__type_support.c.o[0m
+[46.394s] [ 40%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ros_robot_controller_msgs/msg/detail/led_state__type_support.c.o[0m
+[46.476s] [ 41%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ros_robot_controller_msgs/msg/detail/motor_state__type_support.c.o[0m
+[46.557s] [ 41%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ros_robot_controller_msgs/msg/detail/motors_state__type_support.c.o[0m
+[46.657s] [ 42%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ros_robot_controller_msgs/msg/detail/pwm_servo_state__type_support.c.o[0m
+[46.774s] [ 42%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ros_robot_controller_msgs/msg/detail/sbus__type_support.c.o[0m
+[46.885s] [ 43%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ros_robot_controller_msgs/msg/detail/oled_state__type_support.c.o[0m
+[46.974s] [ 43%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ros_robot_controller_msgs/msg/detail/set_bus_servo_state__type_support.c.o[0m
+[47.074s] [ 44%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ros_robot_controller_msgs/msg/detail/rgb_states__type_support.c.o[0m
+[47.175s] [ 44%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ros_robot_controller_msgs/msg/detail/rgb_state__type_support.c.o[0m
+[47.282s] [ 45%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ros_robot_controller_msgs/msg/detail/servo_position__type_support.c.o[0m
+[47.377s] [ 45%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ros_robot_controller_msgs/msg/detail/servos_position__type_support.c.o[0m
+[47.489s] [ 46%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ros_robot_controller_msgs/msg/detail/set_pwm_servo_state__type_support.c.o[0m
+[47.587s] [ 46%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ros_robot_controller_msgs/msg/detail/get_bus_servo_cmd__type_support.c.o[0m
+[47.670s] [ 46%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ros_robot_controller_msgs/msg/detail/get_pwm_servo_cmd__type_support.c.o[0m
+[47.764s] [ 47%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ros_robot_controller_msgs/srv/detail/get_bus_servo_state__type_support.c.o[0m
+[47.915s] [ 47%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ros_robot_controller_msgs/srv/detail/get_pwm_servo_state__type_support.c.o[0m
+[48.061s] [ 48%] [32m[1mLinking C shared library libros_robot_controller_msgs__rosidl_typesupport_introspection_c.so[0m
+[48.189s] [ 48%] Built target ros_robot_controller_msgs__rosidl_typesupport_introspection_c
+[48.213s] [ 48%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[49.504s] [ 49%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ros_robot_controller_msgs/msg/bus_servo_state__type_support.cpp.o[0m
+[49.595s] [ 49%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ros_robot_controller_msgs/msg/button_state__type_support.cpp.o[0m
+[49.684s] [ 50%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ros_robot_controller_msgs/msg/buzzer_state__type_support.cpp.o[0m
+[49.773s] [ 50%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ros_robot_controller_msgs/msg/led_state__type_support.cpp.o[0m
+[49.864s] [ 51%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ros_robot_controller_msgs/msg/motor_state__type_support.cpp.o[0m
+[49.953s] [ 51%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ros_robot_controller_msgs/msg/motors_state__type_support.cpp.o[0m
+[50.044s] [ 52%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ros_robot_controller_msgs/msg/pwm_servo_state__type_support.cpp.o[0m
+[50.134s] [ 52%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ros_robot_controller_msgs/msg/sbus__type_support.cpp.o[0m
+[50.228s] [ 52%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ros_robot_controller_msgs/msg/oled_state__type_support.cpp.o[0m
+[50.316s] [ 53%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ros_robot_controller_msgs/msg/set_bus_servo_state__type_support.cpp.o[0m
+[50.406s] [ 53%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ros_robot_controller_msgs/msg/rgb_states__type_support.cpp.o[0m
+[50.501s] [ 54%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ros_robot_controller_msgs/msg/rgb_state__type_support.cpp.o[0m
+[50.591s] [ 54%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ros_robot_controller_msgs/msg/servo_position__type_support.cpp.o[0m
+[50.682s] [ 55%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ros_robot_controller_msgs/msg/servos_position__type_support.cpp.o[0m
+[50.772s] [ 55%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ros_robot_controller_msgs/msg/set_pwm_servo_state__type_support.cpp.o[0m
+[50.862s] [ 56%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ros_robot_controller_msgs/msg/get_bus_servo_cmd__type_support.cpp.o[0m
+[50.953s] [ 56%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ros_robot_controller_msgs/msg/get_pwm_servo_cmd__type_support.cpp.o[0m
+[51.046s] [ 57%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ros_robot_controller_msgs/srv/get_bus_servo_state__type_support.cpp.o[0m
+[51.144s] [ 57%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ros_robot_controller_msgs/srv/get_pwm_servo_state__type_support.cpp.o[0m
+[51.244s] [ 58%] [32m[1mLinking CXX shared library libros_robot_controller_msgs__rosidl_typesupport_c.so[0m
+[51.337s] [ 58%] Built target ros_robot_controller_msgs__rosidl_typesupport_c
+[51.361s] [ 58%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[53.561s] [ 59%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ros_robot_controller_msgs/msg/detail/bus_servo_state__type_support.cpp.o[0m
+[54.694s] [ 59%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ros_robot_controller_msgs/msg/detail/button_state__type_support.cpp.o[0m
+[55.741s] [ 60%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ros_robot_controller_msgs/msg/detail/buzzer_state__type_support.cpp.o[0m
+[56.575s] [ 60%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ros_robot_controller_msgs/msg/detail/led_state__type_support.cpp.o[0m
+[57.545s] [ 61%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ros_robot_controller_msgs/msg/detail/motor_state__type_support.cpp.o[0m
+[58.888s] [ 61%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ros_robot_controller_msgs/msg/detail/motors_state__type_support.cpp.o[0m
+[60.193s] [ 62%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ros_robot_controller_msgs/msg/detail/pwm_servo_state__type_support.cpp.o[0m
+[61.482s] [ 62%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ros_robot_controller_msgs/msg/detail/sbus__type_support.cpp.o[0m
+[62.661s] [ 63%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ros_robot_controller_msgs/msg/detail/oled_state__type_support.cpp.o[0m
+[63.663s] [ 63%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ros_robot_controller_msgs/msg/detail/set_bus_servo_state__type_support.cpp.o[0m
+[65.069s] [ 63%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ros_robot_controller_msgs/msg/detail/rgb_states__type_support.cpp.o[0m
+[65.888s] [ 64%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ros_robot_controller_msgs/msg/detail/rgb_state__type_support.cpp.o[0m
+[66.696s] [ 64%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ros_robot_controller_msgs/msg/detail/servo_position__type_support.cpp.o[0m
+[67.652s] [ 65%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ros_robot_controller_msgs/msg/detail/servos_position__type_support.cpp.o[0m
+[68.747s] [ 65%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ros_robot_controller_msgs/msg/detail/set_pwm_servo_state__type_support.cpp.o[0m
+[70.079s] [ 66%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ros_robot_controller_msgs/msg/detail/get_bus_servo_cmd__type_support.cpp.o[0m
+[70.895s] [ 66%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ros_robot_controller_msgs/msg/detail/get_pwm_servo_cmd__type_support.cpp.o[0m
+[71.630s] [ 67%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ros_robot_controller_msgs/srv/detail/get_bus_servo_state__type_support.cpp.o[0m
+[73.278s] [ 67%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ros_robot_controller_msgs/srv/detail/get_pwm_servo_state__type_support.cpp.o[0m
+[75.438s] [ 68%] [32m[1mLinking CXX shared library libros_robot_controller_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[75.740s] [ 68%] Built target ros_robot_controller_msgs__rosidl_typesupport_introspection_cpp
+[75.771s] [ 69%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[78.493s] [ 69%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ros_robot_controller_msgs/msg/detail/dds_fastrtps/bus_servo_state__type_support.cpp.o[0m
+[80.144s] [ 69%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ros_robot_controller_msgs/msg/detail/dds_fastrtps/buzzer_state__type_support.cpp.o[0m
+[81.610s] [ 70%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ros_robot_controller_msgs/msg/detail/dds_fastrtps/led_state__type_support.cpp.o[0m
+[82.764s] [ 70%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ros_robot_controller_msgs/msg/detail/dds_fastrtps/motor_state__type_support.cpp.o[0m
+[83.914s] [ 71%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ros_robot_controller_msgs/msg/detail/dds_fastrtps/motors_state__type_support.cpp.o[0m
+[85.427s] [ 71%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ros_robot_controller_msgs/msg/detail/dds_fastrtps/pwm_servo_state__type_support.cpp.o[0m
+[86.823s] [ 71%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ros_robot_controller_msgs/msg/detail/dds_fastrtps/sbus__type_support.cpp.o[0m
+[88.002s] [ 72%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ros_robot_controller_msgs/msg/detail/dds_fastrtps/oled_state__type_support.cpp.o[0m
+[89.224s] [ 72%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ros_robot_controller_msgs/msg/detail/dds_fastrtps/set_bus_servo_state__type_support.cpp.o[0m
+[90.497s] [ 73%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ros_robot_controller_msgs/msg/detail/dds_fastrtps/rgb_states__type_support.cpp.o[0m
+[91.585s] [ 73%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ros_robot_controller_msgs/msg/detail/dds_fastrtps/rgb_state__type_support.cpp.o[0m
+[92.656s] [ 74%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ros_robot_controller_msgs/msg/detail/dds_fastrtps/servo_position__type_support.cpp.o[0m
+[93.728s] [ 74%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ros_robot_controller_msgs/msg/detail/dds_fastrtps/servos_position__type_support.cpp.o[0m
+[94.953s] [ 75%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ros_robot_controller_msgs/msg/detail/dds_fastrtps/set_pwm_servo_state__type_support.cpp.o[0m
+[96.027s] [ 75%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ros_robot_controller_msgs/msg/detail/dds_fastrtps/get_bus_servo_cmd__type_support.cpp.o[0m
+[96.995s] [ 76%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ros_robot_controller_msgs/msg/detail/dds_fastrtps/get_pwm_servo_cmd__type_support.cpp.o[0m
+[98.062s] [ 76%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ros_robot_controller_msgs/srv/detail/dds_fastrtps/get_bus_servo_state__type_support.cpp.o[0m
+[99.851s] [ 77%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ros_robot_controller_msgs/srv/detail/dds_fastrtps/get_pwm_servo_state__type_support.cpp.o[0m
+[101.616s] [ 78%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ros_robot_controller_msgs/msg/detail/dds_fastrtps/button_state__type_support.cpp.o[0m
+[102.535s] [ 78%] [32m[1mLinking CXX shared library libros_robot_controller_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[102.768s] [ 78%] Built target ros_robot_controller_msgs__rosidl_typesupport_fastrtps_cpp
+[102.790s] [ 79%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[105.216s] [ 79%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ros_robot_controller_msgs/msg/detail/bus_servo_state__type_support_c.cpp.o[0m
+[106.639s] [ 80%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ros_robot_controller_msgs/msg/detail/led_state__type_support_c.cpp.o[0m
+[108.095s] [ 80%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ros_robot_controller_msgs/msg/detail/motor_state__type_support_c.cpp.o[0m
+[109.432s] [ 81%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ros_robot_controller_msgs/msg/detail/motors_state__type_support_c.cpp.o[0m
+[110.787s] [ 81%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ros_robot_controller_msgs/msg/detail/pwm_servo_state__type_support_c.cpp.o[0m
+[112.727s] [ 82%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ros_robot_controller_msgs/msg/detail/sbus__type_support_c.cpp.o[0m
+[114.294s] [ 82%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ros_robot_controller_msgs/msg/detail/oled_state__type_support_c.cpp.o[0m
+[115.796s] [ 83%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ros_robot_controller_msgs/msg/detail/set_bus_servo_state__type_support_c.cpp.o[0m
+[117.126s] [ 83%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ros_robot_controller_msgs/msg/detail/rgb_states__type_support_c.cpp.o[0m
+[118.212s] [ 84%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ros_robot_controller_msgs/msg/detail/rgb_state__type_support_c.cpp.o[0m
+[119.348s] [ 84%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ros_robot_controller_msgs/msg/detail/servo_position__type_support_c.cpp.o[0m
+[120.801s] [ 84%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ros_robot_controller_msgs/msg/detail/servos_position__type_support_c.cpp.o[0m
+[122.244s] [ 85%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ros_robot_controller_msgs/msg/detail/set_pwm_servo_state__type_support_c.cpp.o[0m
+[123.329s] [ 85%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ros_robot_controller_msgs/msg/detail/get_bus_servo_cmd__type_support_c.cpp.o[0m
+[124.447s] [ 86%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ros_robot_controller_msgs/msg/detail/get_pwm_servo_cmd__type_support_c.cpp.o[0m
+[125.986s] [ 86%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ros_robot_controller_msgs/srv/detail/get_bus_servo_state__type_support_c.cpp.o[0m
+[127.571s] [ 87%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ros_robot_controller_msgs/srv/detail/get_pwm_servo_state__type_support_c.cpp.o[0m
+[129.168s] [ 87%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ros_robot_controller_msgs/msg/detail/buzzer_state__type_support_c.cpp.o[0m
+[130.567s] [ 88%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ros_robot_controller_msgs/msg/detail/button_state__type_support_c.cpp.o[0m
+[131.953s] [ 88%] [32m[1mLinking CXX shared library libros_robot_controller_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[132.298s] [ 88%] Built target ros_robot_controller_msgs__rosidl_typesupport_fastrtps_c
+[132.359s] [ 88%] Built target ros_robot_controller_msgs
+[132.438s] [ 88%] [34m[1mGenerating Python code for ROS interfaces[0m
+[137.015s] [ 88%] Built target ros_robot_controller_msgs__py
+[137.129s] [ 88%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_py.dir/rosidl_generator_py/ros_robot_controller_msgs/msg/_bus_servo_state_s.c.o[0m
+[138.117s] [ 89%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_py.dir/rosidl_generator_py/ros_robot_controller_msgs/msg/_led_state_s.c.o[0m
+[138.515s] [ 89%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_py.dir/rosidl_generator_py/ros_robot_controller_msgs/msg/_motor_state_s.c.o[0m
+[138.931s] [ 90%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_py.dir/rosidl_generator_py/ros_robot_controller_msgs/msg/_motors_state_s.c.o[0m
+[139.298s] [ 90%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_py.dir/rosidl_generator_py/ros_robot_controller_msgs/msg/_pwm_servo_state_s.c.o[0m
+[139.755s] [ 91%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_py.dir/rosidl_generator_py/ros_robot_controller_msgs/msg/_sbus_s.c.o[0m
+[140.186s] [ 91%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_py.dir/rosidl_generator_py/ros_robot_controller_msgs/msg/_oled_state_s.c.o[0m
+[140.587s] [ 92%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_py.dir/rosidl_generator_py/ros_robot_controller_msgs/msg/_set_bus_servo_state_s.c.o[0m
+[141.028s] [ 92%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_py.dir/rosidl_generator_py/ros_robot_controller_msgs/msg/_rgb_states_s.c.o[0m
+[141.400s] [ 93%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_py.dir/rosidl_generator_py/ros_robot_controller_msgs/msg/_rgb_state_s.c.o[0m
+[141.839s] [ 93%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_py.dir/rosidl_generator_py/ros_robot_controller_msgs/msg/_servo_position_s.c.o[0m
+[142.163s] [ 94%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_py.dir/rosidl_generator_py/ros_robot_controller_msgs/msg/_servos_position_s.c.o[0m
+[142.569s] [ 94%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_py.dir/rosidl_generator_py/ros_robot_controller_msgs/msg/_set_pwm_servo_state_s.c.o[0m
+[143.028s] [ 94%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_py.dir/rosidl_generator_py/ros_robot_controller_msgs/msg/_get_bus_servo_cmd_s.c.o[0m
+[143.530s] [ 95%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_py.dir/rosidl_generator_py/ros_robot_controller_msgs/msg/_get_pwm_servo_cmd_s.c.o[0m
+[144.015s] [ 95%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_py.dir/rosidl_generator_py/ros_robot_controller_msgs/srv/_get_bus_servo_state_s.c.o[0m
+[144.628s] [ 96%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_py.dir/rosidl_generator_py/ros_robot_controller_msgs/srv/_get_pwm_servo_state_s.c.o[0m
+[145.181s] [ 96%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_py.dir/rosidl_generator_py/ros_robot_controller_msgs/msg/_buzzer_state_s.c.o[0m
+[145.653s] [ 97%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_py.dir/rosidl_generator_py/ros_robot_controller_msgs/msg/_button_state_s.c.o[0m
+[146.023s] [ 97%] [32m[1mLinking C shared library libros_robot_controller_msgs__rosidl_generator_py.so[0m
+[146.208s] [ 97%] Built target ros_robot_controller_msgs__rosidl_generator_py
+[146.282s] [ 97%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs_s__rosidl_typesupport_fastrtps_c.dir/rosidl_generator_py/ros_robot_controller_msgs/_ros_robot_controller_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[146.855s] [ 98%] [32m[1mLinking C shared module rosidl_generator_py/ros_robot_controller_msgs/ros_robot_controller_msgs_s__rosidl_typesupport_fastrtps_c.so[0m
+[146.975s] [ 98%] Built target ros_robot_controller_msgs_s__rosidl_typesupport_fastrtps_c
+[147.053s] [ 98%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs_s__rosidl_typesupport_c.dir/rosidl_generator_py/ros_robot_controller_msgs/_ros_robot_controller_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[147.671s] [ 99%] [32m[1mLinking C shared module rosidl_generator_py/ros_robot_controller_msgs/ros_robot_controller_msgs_s__rosidl_typesupport_c.so[0m
+[147.758s] [ 99%] Built target ros_robot_controller_msgs_s__rosidl_typesupport_c
+[147.815s] [ 99%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs_s__rosidl_typesupport_introspection_c.dir/rosidl_generator_py/ros_robot_controller_msgs/_ros_robot_controller_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[148.400s] [100%] [32m[1mLinking C shared module rosidl_generator_py/ros_robot_controller_msgs/ros_robot_controller_msgs_s__rosidl_typesupport_introspection_c.so[0m
+[148.508s] [100%] Built target ros_robot_controller_msgs_s__rosidl_typesupport_introspection_c
+[148.565s] Invoked command in '/home/damian/ros2_controller_ws/build/ros_robot_controller_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/damian/ros2_controller_ws/install/ros_robot_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/damian/ros2_controller_ws/build/ros_robot_controller_msgs -- -j4 -l4
+[150.200s] Invoking command in '/home/damian/ros2_controller_ws/build/ros_robot_controller_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/damian/ros2_controller_ws/install/ros_robot_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/damian/ros2_controller_ws/build/ros_robot_controller_msgs
+[150.223s] -- Install configuration: ""
+[150.224s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ament_index/resource_index/rosidl_interfaces/ros_robot_controller_msgs
+[150.224s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/BusServoState.json
+[150.225s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/ButtonState.json
+[150.226s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/BuzzerState.json
+[150.226s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/LedState.json
+[150.226s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/MotorState.json
+[150.227s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/MotorsState.json
+[150.227s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/PWMServoState.json
+[150.227s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/Sbus.json
+[150.227s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/OLEDState.json
+[150.228s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/SetBusServoState.json
+[150.228s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/RGBStates.json
+[150.228s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/RGBState.json
+[150.228s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/ServoPosition.json
+[150.229s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/ServosPosition.json
+[150.229s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/SetPWMServoState.json
+[150.229s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/GetBusServoCmd.json
+[150.229s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/GetPWMServoCmd.json
+[150.232s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/srv/GetBusServoState.json
+[150.233s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/srv/GetPWMServoState.json
+[150.234s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs
+[150.234s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg
+[150.234s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/rgb_states.h
+[150.234s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/get_pwm_servo_cmd.h
+[150.234s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/button_state.h
+[150.235s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/set_pwm_servo_state.h
+[150.235s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/get_bus_servo_cmd.h
+[150.235s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/buzzer_state.h
+[150.236s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/pwm_servo_state.h
+[150.236s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/servos_position.h
+[150.236s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail
+[150.237s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/buzzer_state__description.c
+[150.237s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/led_state__type_support.h
+[150.238s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/buzzer_state__type_support.h
+[150.238s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/servos_position__type_support.c
+[150.240s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/servo_position__description.c
+[150.241s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/servos_position__description.c
+[150.242s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/rgb_states__description.c
+[150.242s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/rgb_states__functions.c
+[150.243s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/buzzer_state__functions.h
+[150.243s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/buzzer_state__type_support.c
+[150.243s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/bus_servo_state__struct.h
+[150.243s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/led_state__functions.h
+[150.244s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/servos_position__struct.h
+[150.244s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/rgb_state__functions.c
+[150.244s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/bus_servo_state__functions.c
+[150.245s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/set_pwm_servo_state__functions.c
+[150.245s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/get_pwm_servo_cmd__type_support.c
+[150.246s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/led_state__type_support.c
+[150.246s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/sbus__type_support.c
+[150.246s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/button_state__functions.h
+[150.247s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/get_pwm_servo_cmd__functions.h
+[150.247s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/get_pwm_servo_cmd__description.c
+[150.247s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/get_bus_servo_cmd__description.c
+[150.247s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/pwm_servo_state__struct.h
+[150.247s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/oled_state__type_support.c
+[150.248s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/motors_state__functions.h
+[150.248s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/rgb_state__type_support.c
+[150.248s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/rgb_states__type_support.c
+[150.248s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/servo_position__functions.h
+[150.248s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/led_state__description.c
+[150.249s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/pwm_servo_state__description.c
+[150.249s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/sbus__functions.c
+[150.249s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/buzzer_state__functions.c
+[150.249s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/set_bus_servo_state__struct.h
+[150.249s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/bus_servo_state__functions.h
+[150.250s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/motor_state__type_support.c
+[150.250s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/oled_state__functions.h
+[150.250s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/servos_position__type_support.h
+[150.250s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/set_bus_servo_state__type_support.h
+[150.250s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/motor_state__functions.h
+[150.250s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/sbus__type_support.h
+[150.250s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/servo_position__type_support.c
+[150.251s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/pwm_servo_state__functions.h
+[150.251s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/set_pwm_servo_state__type_support.h
+[150.251s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/get_bus_servo_cmd__functions.c
+[150.251s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/motor_state__description.c
+[150.252s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/bus_servo_state__type_support.c
+[150.252s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/get_pwm_servo_cmd__functions.c
+[150.252s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/get_bus_servo_cmd__struct.h
+[150.252s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/oled_state__functions.c
+[150.253s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/motor_state__type_support.h
+[150.253s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/button_state__functions.c
+[150.254s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/set_pwm_servo_state__type_support.c
+[150.255s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/rgb_states__functions.h
+[150.256s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/motors_state__functions.c
+[150.257s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/servo_position__type_support.h
+[150.258s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/set_bus_servo_state__functions.h
+[150.258s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/pwm_servo_state__type_support.h
+[150.258s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/pwm_servo_state__type_support.c
+[150.259s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/led_state__struct.h
+[150.259s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/button_state__description.c
+[150.259s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/servos_position__functions.h
+[150.259s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/set_bus_servo_state__type_support.c
+[150.259s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/servo_position__functions.c
+[150.261s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/set_pwm_servo_state__struct.h
+[150.263s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/rgb_state__functions.h
+[150.263s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/get_pwm_servo_cmd__struct.h
+[150.264s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/oled_state__struct.h
+[150.264s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/rgb_states__type_support.h
+[150.264s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/rgb_state__description.c
+[150.264s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/motors_state__type_support.c
+[150.264s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/motor_state__functions.c
+[150.264s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/motors_state__struct.h
+[150.264s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/oled_state__description.c
+[150.264s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/rgb_state__type_support.h
+[150.265s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/motors_state__description.c
+[150.265s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/button_state__struct.h
+[150.265s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/bus_servo_state__type_support.h
+[150.265s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/set_pwm_servo_state__description.c
+[150.267s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/oled_state__type_support.h
+[150.270s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/led_state__functions.c
+[150.270s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/sbus__description.c
+[150.270s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/button_state__type_support.h
+[150.271s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/servos_position__functions.c
+[150.271s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/motors_state__type_support.h
+[150.271s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/sbus__functions.h
+[150.271s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/get_bus_servo_cmd__type_support.h
+[150.271s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/sbus__struct.h
+[150.272s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/bus_servo_state__description.c
+[150.272s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/rgb_states__struct.h
+[150.272s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/set_pwm_servo_state__functions.h
+[150.272s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/motor_state__struct.h
+[150.272s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/pwm_servo_state__functions.c
+[150.272s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/get_pwm_servo_cmd__type_support.h
+[150.273s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/button_state__type_support.c
+[150.273s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/set_bus_servo_state__functions.c
+[150.275s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/get_bus_servo_cmd__functions.h
+[150.275s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/get_bus_servo_cmd__type_support.c
+[150.275s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/set_bus_servo_state__description.c
+[150.275s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/buzzer_state__struct.h
+[150.275s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/servo_position__struct.h
+[150.275s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/rgb_state__struct.h
+[150.275s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/motors_state.h
+[150.276s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/rosidl_generator_c__visibility_control.h
+[150.276s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/sbus.h
+[150.276s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/set_bus_servo_state.h
+[150.276s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/rgb_state.h
+[150.276s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/oled_state.h
+[150.276s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/bus_servo_state.h
+[150.276s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/servo_position.h
+[150.276s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/motor_state.h
+[150.280s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/led_state.h
+[150.280s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv
+[150.280s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/get_pwm_servo_state.h
+[150.280s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail
+[150.280s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail/get_pwm_servo_state__type_support.h
+[150.281s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail/get_pwm_servo_state__functions.c
+[150.281s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail/get_pwm_servo_state__type_support.c
+[150.281s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail/get_bus_servo_state__functions.h
+[150.281s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail/get_bus_servo_state__type_support.c
+[150.281s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail/get_pwm_servo_state__description.c
+[150.281s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail/get_bus_servo_state__description.c
+[150.281s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail/get_bus_servo_state__struct.h
+[150.282s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail/get_bus_servo_state__type_support.h
+[150.282s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail/get_pwm_servo_state__functions.h
+[150.282s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail/get_bus_servo_state__functions.c
+[150.282s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail/get_pwm_servo_state__struct.h
+[150.282s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/get_bus_servo_state.h
+[150.282s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/environment/library_path.sh
+[150.282s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/environment/library_path.dsv
+[150.285s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/libros_robot_controller_msgs__rosidl_generator_c.so
+[150.285s] -- Set non-toolchain portion of runtime path of "/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/libros_robot_controller_msgs__rosidl_generator_c.so" to ""
+[150.285s] -- Up-to-date: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs
+[150.285s] -- Up-to-date: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg
+[150.286s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[150.286s] -- Up-to-date: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail
+[150.286s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/motor_state__rosidl_typesupport_fastrtps_c.h
+[150.286s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/oled_state__rosidl_typesupport_fastrtps_c.h
+[150.286s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/led_state__rosidl_typesupport_fastrtps_c.h
+[150.287s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/rgb_states__rosidl_typesupport_fastrtps_c.h
+[150.287s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/button_state__rosidl_typesupport_fastrtps_c.h
+[150.287s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/rgb_state__rosidl_typesupport_fastrtps_c.h
+[150.287s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/servo_position__rosidl_typesupport_fastrtps_c.h
+[150.287s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/pwm_servo_state__rosidl_typesupport_fastrtps_c.h
+[150.288s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/motors_state__rosidl_typesupport_fastrtps_c.h
+[150.288s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/get_bus_servo_cmd__rosidl_typesupport_fastrtps_c.h
+[150.288s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/set_bus_servo_state__rosidl_typesupport_fastrtps_c.h
+[150.288s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/buzzer_state__rosidl_typesupport_fastrtps_c.h
+[150.288s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/sbus__rosidl_typesupport_fastrtps_c.h
+[150.288s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/servos_position__rosidl_typesupport_fastrtps_c.h
+[150.289s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/set_pwm_servo_state__rosidl_typesupport_fastrtps_c.h
+[150.289s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/bus_servo_state__rosidl_typesupport_fastrtps_c.h
+[150.289s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/get_pwm_servo_cmd__rosidl_typesupport_fastrtps_c.h
+[150.289s] -- Up-to-date: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv
+[150.289s] -- Up-to-date: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail
+[150.290s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail/get_pwm_servo_state__rosidl_typesupport_fastrtps_c.h
+[150.290s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail/get_bus_servo_state__rosidl_typesupport_fastrtps_c.h
+[150.290s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/libros_robot_controller_msgs__rosidl_typesupport_fastrtps_c.so
+[150.290s] -- Set non-toolchain portion of runtime path of "/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/libros_robot_controller_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[150.290s] -- Up-to-date: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs
+[150.291s] -- Up-to-date: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg
+[150.291s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/led_state.hpp
+[150.291s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/get_bus_servo_cmd.hpp
+[150.291s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/set_pwm_servo_state.hpp
+[150.291s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/oled_state.hpp
+[150.291s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[150.291s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/rgb_states.hpp
+[150.291s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/set_bus_servo_state.hpp
+[150.292s] -- Up-to-date: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail
+[150.292s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/servos_position__struct.hpp
+[150.292s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/pwm_servo_state__struct.hpp
+[150.292s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/motors_state__traits.hpp
+[150.292s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/sbus__struct.hpp
+[150.292s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/rgb_state__traits.hpp
+[150.292s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/buzzer_state__traits.hpp
+[150.293s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/bus_servo_state__type_support.hpp
+[150.293s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/led_state__struct.hpp
+[150.293s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/sbus__builder.hpp
+[150.293s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/motor_state__builder.hpp
+[150.293s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/servos_position__traits.hpp
+[150.293s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/get_bus_servo_cmd__traits.hpp
+[150.294s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/led_state__type_support.hpp
+[150.294s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/button_state__builder.hpp
+[150.294s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/set_bus_servo_state__struct.hpp
+[150.294s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/rgb_states__traits.hpp
+[150.294s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/rgb_states__type_support.hpp
+[150.294s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/pwm_servo_state__type_support.hpp
+[150.295s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/rgb_state__struct.hpp
+[150.295s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/get_pwm_servo_cmd__struct.hpp
+[150.295s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/motors_state__type_support.hpp
+[150.298s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/get_bus_servo_cmd__builder.hpp
+[150.299s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/motor_state__type_support.hpp
+[150.299s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/led_state__traits.hpp
+[150.299s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/motors_state__struct.hpp
+[150.300s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/bus_servo_state__builder.hpp
+[150.300s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/sbus__type_support.hpp
+[150.300s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/rgb_state__builder.hpp
+[150.300s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/set_pwm_servo_state__traits.hpp
+[150.300s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/servo_position__traits.hpp
+[150.304s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/set_bus_servo_state__traits.hpp
+[150.304s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/get_pwm_servo_cmd__traits.hpp
+[150.304s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/oled_state__traits.hpp
+[150.304s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/get_pwm_servo_cmd__type_support.hpp
+[150.305s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/led_state__builder.hpp
+[150.305s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/servo_position__type_support.hpp
+[150.305s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/buzzer_state__builder.hpp
+[150.305s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/button_state__type_support.hpp
+[150.305s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/rgb_state__type_support.hpp
+[150.305s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/buzzer_state__struct.hpp
+[150.305s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/button_state__traits.hpp
+[150.306s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/set_bus_servo_state__type_support.hpp
+[150.306s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/servo_position__struct.hpp
+[150.306s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/servos_position__builder.hpp
+[150.306s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/set_pwm_servo_state__type_support.hpp
+[150.306s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/get_bus_servo_cmd__type_support.hpp
+[150.306s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/bus_servo_state__struct.hpp
+[150.306s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/set_pwm_servo_state__builder.hpp
+[150.310s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/get_pwm_servo_cmd__builder.hpp
+[150.310s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/set_pwm_servo_state__struct.hpp
+[150.310s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/pwm_servo_state__traits.hpp
+[150.310s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/pwm_servo_state__builder.hpp
+[150.311s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/motors_state__builder.hpp
+[150.311s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/get_bus_servo_cmd__struct.hpp
+[150.312s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/motor_state__struct.hpp
+[150.312s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/servo_position__builder.hpp
+[150.312s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/buzzer_state__type_support.hpp
+[150.312s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/servos_position__type_support.hpp
+[150.312s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/rgb_states__struct.hpp
+[150.312s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/set_bus_servo_state__builder.hpp
+[150.312s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/bus_servo_state__traits.hpp
+[150.312s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/motor_state__traits.hpp
+[150.313s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/button_state__struct.hpp
+[150.313s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/oled_state__struct.hpp
+[150.316s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/oled_state__builder.hpp
+[150.316s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/oled_state__type_support.hpp
+[150.316s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/rgb_states__builder.hpp
+[150.316s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/sbus__traits.hpp
+[150.319s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/servos_position.hpp
+[150.319s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/get_pwm_servo_cmd.hpp
+[150.319s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/motors_state.hpp
+[150.319s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/servo_position.hpp
+[150.320s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/pwm_servo_state.hpp
+[150.320s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/bus_servo_state.hpp
+[150.320s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/motor_state.hpp
+[150.320s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/sbus.hpp
+[150.320s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/button_state.hpp
+[150.320s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/buzzer_state.hpp
+[150.320s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/rgb_state.hpp
+[150.320s] -- Up-to-date: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv
+[150.320s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/get_pwm_servo_state.hpp
+[150.321s] -- Up-to-date: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail
+[150.321s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail/get_bus_servo_state__type_support.hpp
+[150.321s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail/get_bus_servo_state__traits.hpp
+[150.321s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail/get_pwm_servo_state__traits.hpp
+[150.321s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail/get_pwm_servo_state__type_support.hpp
+[150.321s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail/get_pwm_servo_state__struct.hpp
+[150.321s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail/get_pwm_servo_state__builder.hpp
+[150.325s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail/get_bus_servo_state__builder.hpp
+[150.326s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail/get_bus_servo_state__struct.hpp
+[150.326s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/get_bus_servo_state.hpp
+[150.327s] -- Up-to-date: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs
+[150.327s] -- Up-to-date: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg
+[150.327s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[150.327s] -- Up-to-date: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail
+[150.327s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/led_state__rosidl_typesupport_fastrtps_cpp.hpp
+[150.327s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/servo_position__rosidl_typesupport_fastrtps_cpp.hpp
+[150.327s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/oled_state__rosidl_typesupport_fastrtps_cpp.hpp
+[150.329s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/get_bus_servo_cmd__rosidl_typesupport_fastrtps_cpp.hpp
+[150.333s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/pwm_servo_state__rosidl_typesupport_fastrtps_cpp.hpp
+[150.333s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/get_pwm_servo_cmd__rosidl_typesupport_fastrtps_cpp.hpp
+[150.333s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/set_bus_servo_state__rosidl_typesupport_fastrtps_cpp.hpp
+[150.333s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/dds_fastrtps
+[150.334s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/servos_position__rosidl_typesupport_fastrtps_cpp.hpp
+[150.334s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/motor_state__rosidl_typesupport_fastrtps_cpp.hpp
+[150.334s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/sbus__rosidl_typesupport_fastrtps_cpp.hpp
+[150.334s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/button_state__rosidl_typesupport_fastrtps_cpp.hpp
+[150.334s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/motors_state__rosidl_typesupport_fastrtps_cpp.hpp
+[150.334s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/rgb_state__rosidl_typesupport_fastrtps_cpp.hpp
+[150.334s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/set_pwm_servo_state__rosidl_typesupport_fastrtps_cpp.hpp
+[150.335s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/rgb_states__rosidl_typesupport_fastrtps_cpp.hpp
+[150.335s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/buzzer_state__rosidl_typesupport_fastrtps_cpp.hpp
+[150.335s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/bus_servo_state__rosidl_typesupport_fastrtps_cpp.hpp
+[150.335s] -- Up-to-date: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv
+[150.335s] -- Up-to-date: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail
+[150.335s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail/dds_fastrtps
+[150.335s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail/get_bus_servo_state__rosidl_typesupport_fastrtps_cpp.hpp
+[150.338s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail/get_pwm_servo_state__rosidl_typesupport_fastrtps_cpp.hpp
+[150.338s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/libros_robot_controller_msgs__rosidl_typesupport_fastrtps_cpp.so
+[150.339s] -- Set non-toolchain portion of runtime path of "/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/libros_robot_controller_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[150.339s] -- Up-to-date: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs
+[150.339s] -- Up-to-date: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg
+[150.339s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[150.342s] -- Up-to-date: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail
+[150.342s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/servos_position__type_support.c
+[150.342s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/motor_state__rosidl_typesupport_introspection_c.h
+[150.342s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/buzzer_state__type_support.c
+[150.343s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/get_pwm_servo_cmd__type_support.c
+[150.343s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/led_state__rosidl_typesupport_introspection_c.h
+[150.343s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/led_state__type_support.c
+[150.343s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/bus_servo_state__rosidl_typesupport_introspection_c.h
+[150.345s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/sbus__type_support.c
+[150.349s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/set_pwm_servo_state__rosidl_typesupport_introspection_c.h
+[150.349s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/buzzer_state__rosidl_typesupport_introspection_c.h
+[150.349s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/motors_state__rosidl_typesupport_introspection_c.h
+[150.350s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/oled_state__type_support.c
+[150.350s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/rgb_state__type_support.c
+[150.350s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/rgb_states__type_support.c
+[150.350s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/motor_state__type_support.c
+[150.350s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/servo_position__type_support.c
+[150.351s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/pwm_servo_state__rosidl_typesupport_introspection_c.h
+[150.351s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/bus_servo_state__type_support.c
+[150.351s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/servos_position__rosidl_typesupport_introspection_c.h
+[150.351s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/set_pwm_servo_state__type_support.c
+[150.351s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/rgb_states__rosidl_typesupport_introspection_c.h
+[150.351s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/pwm_servo_state__type_support.c
+[150.352s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/servo_position__rosidl_typesupport_introspection_c.h
+[150.352s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/set_bus_servo_state__type_support.c
+[150.352s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/get_pwm_servo_cmd__rosidl_typesupport_introspection_c.h
+[150.352s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/motors_state__type_support.c
+[150.355s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/sbus__rosidl_typesupport_introspection_c.h
+[150.355s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/get_bus_servo_cmd__rosidl_typesupport_introspection_c.h
+[150.356s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/set_bus_servo_state__rosidl_typesupport_introspection_c.h
+[150.356s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/button_state__rosidl_typesupport_introspection_c.h
+[150.356s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/oled_state__rosidl_typesupport_introspection_c.h
+[150.357s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/button_state__type_support.c
+[150.357s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/get_bus_servo_cmd__type_support.c
+[150.357s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/rgb_state__rosidl_typesupport_introspection_c.h
+[150.357s] -- Up-to-date: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv
+[150.357s] -- Up-to-date: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail
+[150.357s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail/get_bus_servo_state__rosidl_typesupport_introspection_c.h
+[150.357s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail/get_pwm_servo_state__type_support.c
+[150.358s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail/get_bus_servo_state__type_support.c
+[150.360s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail/get_pwm_servo_state__rosidl_typesupport_introspection_c.h
+[150.360s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/libros_robot_controller_msgs__rosidl_typesupport_introspection_c.so
+[150.360s] -- Set non-toolchain portion of runtime path of "/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/libros_robot_controller_msgs__rosidl_typesupport_introspection_c.so" to ""
+[150.360s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/libros_robot_controller_msgs__rosidl_typesupport_c.so
+[150.360s] -- Set non-toolchain portion of runtime path of "/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/libros_robot_controller_msgs__rosidl_typesupport_c.so" to ""
+[150.361s] -- Up-to-date: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs
+[150.361s] -- Up-to-date: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg
+[150.361s] -- Up-to-date: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail
+[150.361s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/oled_state__rosidl_typesupport_introspection_cpp.hpp
+[150.361s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/buzzer_state__type_support.cpp
+[150.361s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/motors_state__rosidl_typesupport_introspection_cpp.hpp
+[150.361s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/motor_state__rosidl_typesupport_introspection_cpp.hpp
+[150.362s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/get_pwm_servo_cmd__rosidl_typesupport_introspection_cpp.hpp
+[150.362s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/button_state__type_support.cpp
+[150.362s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/rgb_state__rosidl_typesupport_introspection_cpp.hpp
+[150.362s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/get_bus_servo_cmd__rosidl_typesupport_introspection_cpp.hpp
+[150.362s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/motor_state__type_support.cpp
+[150.362s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/set_bus_servo_state__rosidl_typesupport_introspection_cpp.hpp
+[150.362s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/buzzer_state__rosidl_typesupport_introspection_cpp.hpp
+[150.364s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/sbus__rosidl_typesupport_introspection_cpp.hpp
+[150.367s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/servos_position__rosidl_typesupport_introspection_cpp.hpp
+[150.367s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/bus_servo_state__type_support.cpp
+[150.367s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/set_pwm_servo_state__rosidl_typesupport_introspection_cpp.hpp
+[150.367s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/motors_state__type_support.cpp
+[150.367s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/pwm_servo_state__type_support.cpp
+[150.367s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/servo_position__rosidl_typesupport_introspection_cpp.hpp
+[150.367s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/led_state__rosidl_typesupport_introspection_cpp.hpp
+[150.368s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/set_bus_servo_state__type_support.cpp
+[150.368s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/sbus__type_support.cpp
+[150.368s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/rgb_states__type_support.cpp
+[150.368s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/servos_position__type_support.cpp
+[150.368s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/get_pwm_servo_cmd__type_support.cpp
+[150.369s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/led_state__type_support.cpp
+[150.369s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/oled_state__type_support.cpp
+[150.369s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/rgb_state__type_support.cpp
+[150.369s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/pwm_servo_state__rosidl_typesupport_introspection_cpp.hpp
+[150.369s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/get_bus_servo_cmd__type_support.cpp
+[150.369s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/set_pwm_servo_state__type_support.cpp
+[150.370s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/button_state__rosidl_typesupport_introspection_cpp.hpp
+[150.370s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/rgb_states__rosidl_typesupport_introspection_cpp.hpp
+[150.370s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/bus_servo_state__rosidl_typesupport_introspection_cpp.hpp
+[150.370s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/msg/detail/servo_position__type_support.cpp
+[150.370s] -- Up-to-date: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv
+[150.370s] -- Up-to-date: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail
+[150.370s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail/get_pwm_servo_state__type_support.cpp
+[150.371s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail/get_pwm_servo_state__rosidl_typesupport_introspection_cpp.hpp
+[150.371s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail/get_bus_servo_state__type_support.cpp
+[150.374s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/include/ros_robot_controller_msgs/ros_robot_controller_msgs/srv/detail/get_bus_servo_state__rosidl_typesupport_introspection_cpp.hpp
+[150.374s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/libros_robot_controller_msgs__rosidl_typesupport_introspection_cpp.so
+[150.374s] -- Set non-toolchain portion of runtime path of "/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/libros_robot_controller_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[150.374s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/libros_robot_controller_msgs__rosidl_typesupport_cpp.so
+[150.375s] -- Set non-toolchain portion of runtime path of "/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/libros_robot_controller_msgs__rosidl_typesupport_cpp.so" to ""
+[150.375s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/environment/pythonpath.sh
+[150.375s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/environment/pythonpath.dsv
+[150.375s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs-0.0.0-py3.12.egg-info
+[150.375s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs-0.0.0-py3.12.egg-info/SOURCES.txt
+[150.375s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs-0.0.0-py3.12.egg-info/top_level.txt
+[150.375s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs-0.0.0-py3.12.egg-info/PKG-INFO
+[150.376s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs-0.0.0-py3.12.egg-info/dependency_links.txt
+[150.376s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs
+[150.376s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/__init__.py
+[150.376s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg
+[150.376s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_servos_position.py
+[150.376s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_motor_state.py
+[150.377s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_motors_state.py
+[150.378s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_bus_servo_state.py
+[150.378s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_get_bus_servo_cmd.py
+[150.379s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/__init__.py
+[150.380s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_motors_state_s.c
+[150.381s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_servo_position_s.c
+[150.381s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_servo_position.py
+[150.381s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_button_state_s.c
+[150.381s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_rgb_states_s.c
+[150.382s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_buzzer_state_s.c
+[150.382s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_led_state.py
+[150.383s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_set_bus_servo_state.py
+[150.384s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_get_pwm_servo_cmd_s.c
+[150.384s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_servos_position_s.c
+[150.385s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_rgb_state.py
+[150.385s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_motor_state_s.c
+[150.386s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_get_pwm_servo_cmd.py
+[150.387s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_sbus_s.c
+[150.389s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_pwm_servo_state_s.c
+[150.389s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_rgb_state_s.c
+[150.389s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_sbus.py
+[150.390s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_bus_servo_state_s.c
+[150.390s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_get_bus_servo_cmd_s.c
+[150.392s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_set_pwm_servo_state.py
+[150.392s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_set_pwm_servo_state_s.c
+[150.392s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_pwm_servo_state.py
+[150.392s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_buzzer_state.py
+[150.393s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_set_bus_servo_state_s.c
+[150.393s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_button_state.py
+[150.393s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_led_state_s.c
+[150.393s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_oled_state.py
+[150.393s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_rgb_states.py
+[150.393s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_oled_state_s.c
+[150.393s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/_ros_robot_controller_msgs_s.ep.rosidl_typesupport_c.c
+[150.396s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/ros_robot_controller_msgs_s__rosidl_typesupport_c.so
+[150.396s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/_ros_robot_controller_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[150.396s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/srv
+[150.396s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/srv/__init__.py
+[150.397s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/srv/_get_bus_servo_state_s.c
+[150.397s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/srv/_get_bus_servo_state.py
+[150.397s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/srv/_get_pwm_servo_state_s.c
+[150.397s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/srv/_get_pwm_servo_state.py
+[150.397s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/_ros_robot_controller_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[150.397s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/ros_robot_controller_msgs_s__rosidl_typesupport_introspection_c.so
+[150.398s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/ros_robot_controller_msgs_s__rosidl_typesupport_fastrtps_c.so
+[150.533s] Listing '/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs'...
+[150.533s] Compiling '/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/__init__.py'...
+[150.534s] Listing '/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg'...
+[150.534s] Compiling '/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/__init__.py'...
+[150.534s] Compiling '/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_bus_servo_state.py'...
+[150.534s] Compiling '/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_button_state.py'...
+[150.535s] Compiling '/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_buzzer_state.py'...
+[150.535s] Compiling '/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_get_bus_servo_cmd.py'...
+[150.535s] Compiling '/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_get_pwm_servo_cmd.py'...
+[150.535s] Compiling '/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_led_state.py'...
+[150.536s] Compiling '/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_motor_state.py'...
+[150.536s] Compiling '/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_motors_state.py'...
+[150.536s] Compiling '/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_oled_state.py'...
+[150.536s] Compiling '/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_pwm_servo_state.py'...
+[150.536s] Compiling '/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_rgb_state.py'...
+[150.538s] Compiling '/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_rgb_states.py'...
+[150.538s] Compiling '/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_sbus.py'...
+[150.538s] Compiling '/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_servo_position.py'...
+[150.538s] Compiling '/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_servos_position.py'...
+[150.538s] Compiling '/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_set_bus_servo_state.py'...
+[150.539s] Compiling '/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/msg/_set_pwm_servo_state.py'...
+[150.539s] Listing '/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/srv'...
+[150.539s] Compiling '/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/srv/__init__.py'...
+[150.539s] Compiling '/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/srv/_get_bus_servo_state.py'...
+[150.539s] Compiling '/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/srv/_get_pwm_servo_state.py'...
+[150.557s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/ros_robot_controller_msgs_s__rosidl_typesupport_fastrtps_c.so
+[150.558s] -- Set non-toolchain portion of runtime path of "/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/ros_robot_controller_msgs_s__rosidl_typesupport_fastrtps_c.so" to ""
+[150.559s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/ros_robot_controller_msgs_s__rosidl_typesupport_introspection_c.so
+[150.561s] -- Set non-toolchain portion of runtime path of "/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/ros_robot_controller_msgs_s__rosidl_typesupport_introspection_c.so" to ""
+[150.561s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/ros_robot_controller_msgs_s__rosidl_typesupport_c.so
+[150.563s] -- Set non-toolchain portion of runtime path of "/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/python3.12/site-packages/ros_robot_controller_msgs/ros_robot_controller_msgs_s__rosidl_typesupport_c.so" to ""
+[150.563s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/libros_robot_controller_msgs__rosidl_generator_py.so
+[150.565s] -- Set non-toolchain portion of runtime path of "/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/lib/libros_robot_controller_msgs__rosidl_generator_py.so" to ""
+[150.565s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/BusServoState.idl
+[150.565s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/ButtonState.idl
+[150.566s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/BuzzerState.idl
+[150.567s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/LedState.idl
+[150.568s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/MotorState.idl
+[150.569s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/MotorsState.idl
+[150.570s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/PWMServoState.idl
+[150.570s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/Sbus.idl
+[150.571s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/OLEDState.idl
+[150.571s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/SetBusServoState.idl
+[150.572s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/RGBStates.idl
+[150.572s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/RGBState.idl
+[150.573s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/ServoPosition.idl
+[150.574s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/ServosPosition.idl
+[150.574s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/SetPWMServoState.idl
+[150.574s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/GetBusServoCmd.idl
+[150.574s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/GetPWMServoCmd.idl
+[150.574s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/srv/GetBusServoState.idl
+[150.575s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/srv/GetPWMServoState.idl
+[150.575s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/BusServoState.msg
+[150.575s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/ButtonState.msg
+[150.576s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/BuzzerState.msg
+[150.576s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/LedState.msg
+[150.576s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/MotorState.msg
+[150.577s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/MotorsState.msg
+[150.578s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/PWMServoState.msg
+[150.580s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/Sbus.msg
+[150.580s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/OLEDState.msg
+[150.580s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/SetBusServoState.msg
+[150.581s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/RGBStates.msg
+[150.581s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/RGBState.msg
+[150.581s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/ServoPosition.msg
+[150.581s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/ServosPosition.msg
+[150.582s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/SetPWMServoState.msg
+[150.585s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/GetBusServoCmd.msg
+[150.585s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/msg/GetPWMServoCmd.msg
+[150.585s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/srv/GetBusServoState.srv
+[150.585s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/srv/GetPWMServoState.srv
+[150.585s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ament_index/resource_index/package_run_dependencies/ros_robot_controller_msgs
+[150.586s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ament_index/resource_index/parent_prefix_path/ros_robot_controller_msgs
+[150.586s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/environment/ament_prefix_path.sh
+[150.586s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/environment/ament_prefix_path.dsv
+[150.586s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/environment/path.sh
+[150.587s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/environment/path.dsv
+[150.587s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/local_setup.bash
+[150.587s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/local_setup.sh
+[150.588s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/local_setup.zsh
+[150.588s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/local_setup.dsv
+[150.589s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/package.dsv
+[150.590s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ament_index/resource_index/packages/ros_robot_controller_msgs
+[150.590s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/cmake/export_ros_robot_controller_msgs__rosidl_generator_cExport.cmake
+[150.591s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/cmake/export_ros_robot_controller_msgs__rosidl_generator_cExport-noconfig.cmake
+[150.591s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/cmake/export_ros_robot_controller_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[150.592s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/cmake/export_ros_robot_controller_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[150.593s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/cmake/export_ros_robot_controller_msgs__rosidl_generator_cppExport.cmake
+[150.594s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/cmake/export_ros_robot_controller_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[150.594s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/cmake/export_ros_robot_controller_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[150.594s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/cmake/ros_robot_controller_msgs__rosidl_typesupport_introspection_cExport.cmake
+[150.598s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/cmake/ros_robot_controller_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[150.598s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/cmake/ros_robot_controller_msgs__rosidl_typesupport_cExport.cmake
+[150.599s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/cmake/ros_robot_controller_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[150.599s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/cmake/ros_robot_controller_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[150.599s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/cmake/ros_robot_controller_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[150.599s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/cmake/ros_robot_controller_msgs__rosidl_typesupport_cppExport.cmake
+[150.599s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/cmake/ros_robot_controller_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[150.599s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/cmake/export_ros_robot_controller_msgs__rosidl_generator_pyExport.cmake
+[150.599s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/cmake/export_ros_robot_controller_msgs__rosidl_generator_pyExport-noconfig.cmake
+[150.600s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/cmake/rosidl_cmake-extras.cmake
+[150.600s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[150.601s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[150.602s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[150.602s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[150.602s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[150.603s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[150.603s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/cmake/ros_robot_controller_msgsConfig.cmake
+[150.603s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/cmake/ros_robot_controller_msgsConfig-version.cmake
+[150.604s] -- Installing: /home/damian/ros2_controller_ws/install/ros_robot_controller_msgs/share/ros_robot_controller_msgs/package.xml
+[150.614s] Invoked command in '/home/damian/ros2_controller_ws/build/ros_robot_controller_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/damian/ros2_controller_ws/install/ros_robot_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/damian/ros2_controller_ws/build/ros_robot_controller_msgs
