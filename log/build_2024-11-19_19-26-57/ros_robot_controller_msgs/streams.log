@@ -1,0 +1,110 @@
+[0.025s] Invoking command in '/home/damian/ros2_controller_ws/build/ros_robot_controller_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/damian/ros2_controller_ws/install/ros_robot_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/damian/ros2_controller_ws/src/ros_robot_controller_msgs -DCMAKE_INSTALL_PREFIX=/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs
+[0.277s] -- The C compiler identification is GNU 13.2.0
+[0.518s] -- The CXX compiler identification is GNU 13.2.0
+[0.586s] -- Detecting C compiler ABI info
+[0.936s] -- Detecting C compiler ABI info - done
+[0.967s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.972s] -- Detecting C compile features
+[0.973s] -- Detecting C compile features - done
+[1.007s] -- Detecting CXX compiler ABI info
+[1.422s] -- Detecting CXX compiler ABI info - done
+[1.450s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.454s] -- Detecting CXX compile features
+[1.456s] -- Detecting CXX compile features - done
+[1.467s] -- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.952s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[2.341s] -- Found std_msgs: 5.3.5 (/opt/ros/jazzy/share/std_msgs/cmake)
+[2.420s] -- Found rosidl_generator_c: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[2.447s] -- Found rosidl_generator_cpp: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[2.481s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.519s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.573s] -- Found rosidl_default_generators: 1.6.0 (/opt/ros/jazzy/share/rosidl_default_generators/cmake)
+[2.594s] -- Found rosidl_adapter: 4.6.4 (/opt/ros/jazzy/share/rosidl_adapter/cmake)
+[4.523s] -- Found ament_cmake_ros: 0.12.0 (/opt/ros/jazzy/share/ament_cmake_ros/cmake)
+[6.741s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[7.592s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[7.598s] -- Found python_cmake_module: 0.11.1 (/opt/ros/jazzy/share/python_cmake_module/cmake)
+[7.975s] -- Found PythonExtra: /usr/bin/python3  
+[9.469s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter Development NumPy Development.Module Development.Embed 
+[9.598s] -- Found ament_lint_auto: 0.17.1 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[9.660s] -- Added test 'copyright' to check source files copyright and LICENSE
+[9.665s] -- Added test 'lint_cmake' to check CMake code style
+[9.667s] -- Added test 'xmllint' to check XML markup files
+[9.674s] -- Configuring done (9.6s)
+[9.819s] -- Generating done (0.1s)
+[9.867s] -- Build files have been written to: /home/damian/ros2_controller_ws/build/ros_robot_controller_msgs
+[9.896s] Invoked command in '/home/damian/ros2_controller_ws/build/ros_robot_controller_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/damian/ros2_controller_ws/install/ros_robot_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/damian/ros2_controller_ws/src/ros_robot_controller_msgs -DCMAKE_INSTALL_PREFIX=/home/damian/ros2_controller_ws/install/ros_robot_controller_msgs
+[9.899s] Invoking command in '/home/damian/ros2_controller_ws/build/ros_robot_controller_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/damian/ros2_controller_ws/install/ros_robot_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/damian/ros2_controller_ws/build/ros_robot_controller_msgs -- -j4 -l4
+[10.049s] [  1%] [34m[1mGenerating type hashes for ROS interfaces[0m
+[10.081s] [  1%] Built target ament_cmake_python_copy_ros_robot_controller_msgs
+[10.662s] running egg_info
+[10.666s] creating ros_robot_controller_msgs.egg-info
+[10.707s] writing ros_robot_controller_msgs.egg-info/PKG-INFO
+[10.710s] writing dependency_links to ros_robot_controller_msgs.egg-info/dependency_links.txt
+[10.710s] writing top-level names to ros_robot_controller_msgs.egg-info/top_level.txt
+[10.710s] writing manifest file 'ros_robot_controller_msgs.egg-info/SOURCES.txt'
+[10.825s] reading manifest file 'ros_robot_controller_msgs.egg-info/SOURCES.txt'
+[10.826s] writing manifest file 'ros_robot_controller_msgs.egg-info/SOURCES.txt'
+[10.963s] [  1%] Built target ament_cmake_python_build_ros_robot_controller_msgs_egg
+[11.136s] [  1%] Built target ros_robot_controller_msgs__rosidl_generator_type_description
+[11.166s] [  2%] [34m[1mGenerating C code for ROS interfaces[0m
+[11.192s] [  2%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[15.020s] [  2%] Built target ros_robot_controller_msgs__cpp
+[17.144s] [  2%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/bus_servo_state__description.c.o[0m
+[17.256s] [  3%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/button_state__description.c.o[0m
+[17.352s] [  3%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/button_state__functions.c.o[0m
+[17.502s] [  4%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/button_state__type_support.c.o[0m
+[17.583s] [  4%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/buzzer_state__description.c.o[0m
+[17.677s] [  5%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/buzzer_state__functions.c.o[0m
+[17.795s] [  5%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/buzzer_state__type_support.c.o[0m
+[17.875s] [  6%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/led_state__description.c.o[0m
+[17.967s] [  6%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/led_state__functions.c.o[0m
+[18.085s] [  7%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/led_state__type_support.c.o[0m
+[18.164s] [  7%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/motor_state__description.c.o[0m
+[18.285s] [  7%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/motor_state__functions.c.o[0m
+[18.402s] [  8%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/motor_state__type_support.c.o[0m
+[18.469s] [  8%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/motors_state__description.c.o[0m
+[18.554s] [  9%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/motors_state__functions.c.o[0m
+[18.659s] [  9%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/motors_state__type_support.c.o[0m
+[18.729s] [ 10%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/pwm_servo_state__description.c.o[0m
+[18.813s] [ 10%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/pwm_servo_state__functions.c.o[0m
+[18.922s] [ 11%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/pwm_servo_state__type_support.c.o[0m
+[18.990s] [ 11%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/sbus__description.c.o[0m
+[19.078s] [ 12%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/sbus__functions.c.o[0m
+[19.186s] [ 12%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/sbus__type_support.c.o[0m
+[19.257s] [ 13%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/oled_state__description.c.o[0m
+[19.337s] [ 13%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/oled_state__functions.c.o[0m
+[19.440s] [ 14%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/oled_state__type_support.c.o[0m
+[19.511s] [ 14%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/set_bus_servo_state__description.c.o[0m
+[19.597s] [ 14%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/set_bus_servo_state__functions.c.o[0m
+[19.698s] [ 15%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/set_bus_servo_state__type_support.c.o[0m
+[19.767s] [ 15%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/rgb_states__description.c.o[0m
+[19.852s] [ 16%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/rgb_states__functions.c.o[0m
+[19.954s] [ 16%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/rgb_states__type_support.c.o[0m
+[20.026s] [ 17%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/rgb_state__description.c.o[0m
+[20.110s] [ 17%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/rgb_state__functions.c.o[0m
+[20.214s] [ 18%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/rgb_state__type_support.c.o[0m
+[20.281s] [ 18%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/servo_position__description.c.o[0m
+[20.365s] [ 19%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/servo_position__functions.c.o[0m
+[20.464s] [ 19%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/servo_position__type_support.c.o[0m
+[20.534s] [ 20%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/servos_position__description.c.o[0m
+[20.621s] [ 20%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/servos_position__functions.c.o[0m
+[20.724s] [ 21%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/servos_position__type_support.c.o[0m
+[20.793s] [ 21%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/set_pwm_servo_state__description.c.o[0m
+[20.883s] [ 21%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/set_pwm_servo_state__functions.c.o[0m
+[21.003s] [ 22%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/set_pwm_servo_state__type_support.c.o[0m
+[21.086s] [ 22%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/get_bus_servo_cmd__description.c.o[0m
+[21.200s] [ 23%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/get_bus_servo_cmd__functions.c.o[0m
+[21.333s] [ 23%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/get_bus_servo_cmd__type_support.c.o[0m
+[21.424s] [ 24%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/get_pwm_servo_cmd__description.c.o[0m
+[21.537s] [ 24%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/get_pwm_servo_cmd__functions.c.o[0m
+[21.657s] [ 25%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/get_pwm_servo_cmd__type_support.c.o[0m
+[21.732s] [ 25%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/srv/detail/get_bus_servo_state__description.c.o[0m
+[21.851s] [ 26%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/srv/detail/get_bus_servo_state__functions.c.o[0m
+[22.049s] [ 26%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/srv/detail/get_bus_servo_state__type_support.c.o[0m
+[22.150s] [ 27%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/srv/detail/get_pwm_servo_state__description.c.o[0m
+[22.326s] [ 27%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/srv/detail/get_pwm_servo_state__functions.c.o[0m
+[22.502s] [ 28%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/srv/detail/get_pwm_servo_state__type_support.c.o[0m
+[22.604s] [ 28%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/bus_servo_state__type_support.c.o[0m
+[22.706s] [ 29%] [32mBuilding C object CMakeFiles/ros_robot_controller_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_robot_controller_msgs/msg/detail/bus_servo_state__functions.c.o[0m
+[22.858s] [ 29%] [32m[1mLinking C shared library libros_robot_controller_msgs__rosidl_generator_c.so[0m
