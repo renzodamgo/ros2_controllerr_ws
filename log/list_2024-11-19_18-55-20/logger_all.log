@@ -1,0 +1,59 @@
+[1.168s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'list', '-p', '--base-paths', '/home/damian/ros2_controller_ws']
+[1.168s] DEBUG:colcon:Parsed command line arguments: Namespace(log_base=None, log_level=None, verb_name='list', build_base='build', ignore_user_meta=False, metas=['./colcon.meta'], base_paths=['/home/damian/ros2_controller_ws'], packages_ignore=None, packages_ignore_regex=None, paths=None, packages_up_to=None, packages_up_to_regex=None, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_select_by_dep=None, packages_skip_by_dep=None, packages_skip_up_to=None, packages_select_build_failed=False, packages_skip_build_finished=False, packages_select_test_failures=False, packages_skip_test_passed=False, packages_select=None, packages_skip=None, packages_select_regex=None, packages_skip_regex=None, packages_start=None, packages_end=None, allow_overriding=[], topological_order=False, names_only=False, paths_only=True, topological_graph=False, topological_graph_dot=False, topological_graph_density=False, topological_graph_legend=False, topological_graph_dot_cluster=False, topological_graph_dot_include_skipped=False, mixin_files=None, mixin=None, verb_parser=<colcon_mixin.mixin.mixin_argument.MixinArgumentDecorator object at 0xffffa0cfa180>, verb_extension=<colcon_package_information.verb.list.ListVerb object at 0xffffa0cf9370>, main=<bound method ListVerb.main of <colcon_package_information.verb.list.ListVerb object at 0xffffa0cf9370>>, mixin_verb=('list',))
+[1.816s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[1.822s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[1.825s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[1.826s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[1.826s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[1.832s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/damian/ros2_controller_ws'
+[1.837s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws) by extensions ['ignore', 'ignore_ament_install']
+[1.837s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws) by extension 'ignore'
+[1.837s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws) by extension 'ignore_ament_install'
+[1.839s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws) by extensions ['colcon_pkg']
+[1.845s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws) by extension 'colcon_pkg'
+[1.845s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws) by extensions ['colcon_meta']
+[1.846s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws) by extension 'colcon_meta'
+[1.846s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws) by extensions ['ros']
+[1.846s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws) by extension 'ros'
+[2.109s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws) by extensions ['cmake', 'python']
+[2.109s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws) by extension 'cmake'
+[2.109s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws) by extension 'python'
+[2.109s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws) by extensions ['python_setup_py']
+[2.109s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws) by extension 'python_setup_py'
+[2.110s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws/log) by extensions ['ignore', 'ignore_ament_install']
+[2.110s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws/log) by extension 'ignore'
+[2.110s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws/log) ignored
+[2.111s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws/src) by extensions ['ignore', 'ignore_ament_install']
+[2.112s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws/src) by extension 'ignore'
+[2.112s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws/src) by extension 'ignore_ament_install'
+[2.112s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws/src) by extensions ['colcon_pkg']
+[2.112s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws/src) by extension 'colcon_pkg'
+[2.112s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws/src) by extensions ['colcon_meta']
+[2.112s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws/src) by extension 'colcon_meta'
+[2.113s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws/src) by extensions ['ros']
+[2.113s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws/src) by extension 'ros'
+[2.113s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws/src) by extensions ['cmake', 'python']
+[2.113s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws/src) by extension 'cmake'
+[2.114s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws/src) by extension 'python'
+[2.114s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws/src) by extensions ['python_setup_py']
+[2.114s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws/src) by extension 'python_setup_py'
+[2.114s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws/src/ros_robot_controller) by extensions ['ignore', 'ignore_ament_install']
+[2.114s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws/src/ros_robot_controller) by extension 'ignore'
+[2.114s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws/src/ros_robot_controller) by extension 'ignore_ament_install'
+[2.114s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws/src/ros_robot_controller) by extensions ['colcon_pkg']
+[2.114s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws/src/ros_robot_controller) by extension 'colcon_pkg'
+[2.114s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws/src/ros_robot_controller) by extensions ['colcon_meta']
+[2.114s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws/src/ros_robot_controller) by extension 'colcon_meta'
+[2.115s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws/src/ros_robot_controller) by extensions ['ros']
+[2.115s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws/src/ros_robot_controller) by extension 'ros'
+[2.118s] DEBUG:colcon.colcon_core.package_identification:Failed to parse potential ROS package manifest in'/home/damian/ros2_controller_ws/src/ros_robot_controller': Error(s) in package '/home/damian/ros2_controller_ws/src/ros_robot_controller/package.xml':
+The manifest contains invalid XML:
+junk after document element: line 26, column 0
+[2.120s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws/src/ros_robot_controller) by extensions ['cmake', 'python']
+[2.121s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws/src/ros_robot_controller) by extension 'cmake'
+[2.121s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws/src/ros_robot_controller) by extension 'python'
+[2.121s] DEBUG:colcon.colcon_core.package_identification:Python package in '/home/damian/ros2_controller_ws/src/ros_robot_controller' passes arguments to the setup() function which requires a different identification extension than 'python'
+[2.121s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws/src/ros_robot_controller) by extensions ['python_setup_py']
+[2.122s] Level 1:colcon.colcon_core.package_identification:_identify(/home/damian/ros2_controller_ws/src/ros_robot_controller) by extension 'python_setup_py'
+[3.560s] DEBUG:colcon.colcon_core.package_identification:Package '/home/damian/ros2_controller_ws/src/ros_robot_controller' with type 'python' and name 'ros_robot_controller'
+[3.561s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults
