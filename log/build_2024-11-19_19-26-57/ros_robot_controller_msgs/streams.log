@@ -126,3 +126,5 @@
 [37.716s] [ 36%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ros_robot_controller_msgs/msg/servos_position__type_support.cpp.o[0m
 [38.828s] [ 36%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ros_robot_controller_msgs/msg/set_pwm_servo_state__type_support.cpp.o[0m
 [39.860s] [ 37%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ros_robot_controller_msgs/msg/get_bus_servo_cmd__type_support.cpp.o[0m
+[40.671s] [ 37%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ros_robot_controller_msgs/msg/get_pwm_servo_cmd__type_support.cpp.o[0m
+[41.351s] [ 38%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ros_robot_controller_msgs/srv/get_bus_servo_state__type_support.cpp.o[0m

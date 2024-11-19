@@ -123,3 +123,5 @@ writing manifest file 'ros_robot_controller_msgs.egg-info/SOURCES.txt'
 [ 36%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ros_robot_controller_msgs/msg/servos_position__type_support.cpp.o[0m
 [ 36%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ros_robot_controller_msgs/msg/set_pwm_servo_state__type_support.cpp.o[0m
 [ 37%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ros_robot_controller_msgs/msg/get_bus_servo_cmd__type_support.cpp.o[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ros_robot_controller_msgs/msg/get_pwm_servo_cmd__type_support.cpp.o[0m
+[ 38%] [32mBuilding CXX object CMakeFiles/ros_robot_controller_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ros_robot_controller_msgs/srv/get_bus_servo_state__type_support.cpp.o[0m
